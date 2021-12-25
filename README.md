@@ -1,6 +1,6 @@
 # FinalProjectPBO
 
-Projek Akhir mata kuliah Pemrograman Berorientasi Objek Sistem Koperasi Simpan Pinjam
+Final Project mata kuliah Pemrograman Berorientasi Objek Sistem Koperasi Simpan Pinjam
 
 Nama Anggota:
 

@@ -10,6 +10,6 @@ Nama Anggota:
 
 Pembagian Tugas:
 
-1. Aura Husnaini P.Z -  
+1. Aura Husnaini P.Z - Membuat class Nasabah, Rekening, Individu, dan Perusahaan.
 2. Karina Adityas Ramadhanti -  
 3. Kania Ratu Syifa Az Zahra -  

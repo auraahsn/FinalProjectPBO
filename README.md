@@ -29,4 +29,4 @@ Pembagian Tugas:
 5. Kania Ratu Syifa Az Zahra -  
 
 # Deskripsi Program
-Program ini digunakan untuk pendaftaran rekening,  penambahan rekening, transaksi tarik tunai, tambah saldo. Terdapat dua jenis akun yaitu akun Individu dan Perusahaan. Setiap Pemegang Akun dapat memiliki lebih dari satu akun.
+Program ini digunakan untuk pendaftaran rekening,  penambahan rekening, transaksi tarik tunai, dan tambah saldo. Terdapat dua jenis akun yaitu akun Individu dan Perusahaan. Setiap Pemegang Akun dapat memiliki lebih dari satu akun.

@@ -13,3 +13,6 @@ Pembagian Tugas:
 1. Aura Husnaini P.Z - Membuat class Nasabah, Rekening, Individu, dan Perusahaan.
 2. Karina Adityas Ramadhanti -  
 3. Kania Ratu Syifa Az Zahra -  
+
+# Deskripsi Program
+Program ini digunakan untuk pendaftaran rekening,  penambahan rekening, transaksi tarik tunai, tambah saldo. Terdapat dua jenis akun yaitu akun Individu dan Perusahaan. Setiap Pemegang Akun dapat memiliki lebih dari satu akun.

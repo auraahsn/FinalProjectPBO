@@ -11,7 +11,7 @@ Nama Anggota:
 Pembagian Tugas:
 
 1. Aura Husnaini P.Z 
-   Tugas:
+   - Tugas:
     - DBHelper.java
     - Rekening.java
     - Perusahaan.java
@@ -19,6 +19,7 @@ Pembagian Tugas:
     - NasabahForm.fxml
     
 3. Karina Adityas Ramadhanti 
+   - Tugas:
     - Individu.java
     - Main.java
     - Nasabah.java
